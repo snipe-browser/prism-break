@@ -1596,6 +1596,24 @@
   {
     "categories": [
       {
+        "name": "Windows",
+        "subcategories": [
+          "Web Browsers"
+        ]
+      }
+    ],
+    "description": "A de-Googled web browser built on Ungoogled Chromium with zero telemetry, uBlock Origin and Ruffle/Flash compiled into the core, and a local-only password manager. Runs on Windows XP through 11.",
+    "license_url": "",
+    "logo": "snipe.png",
+    "name": "Snipe",
+    "protocols": [],
+    "slug": "snipe",
+    "source_url": "https://github.com/steve12345585/snipe-x64-base",
+    "url": "https://browser.snipeoffice.org/"
+  },
+  {
+    "categories": [
+      {
         "name": "BSD",
         "subcategories": [
           "Email"
